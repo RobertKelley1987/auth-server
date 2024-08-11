@@ -1,0 +1,11 @@
+# Node modules
+/node_modules
+
+# Dev vars
+.env
+
+# Build folder
+/dist
+
+# etc
+tables.sql
